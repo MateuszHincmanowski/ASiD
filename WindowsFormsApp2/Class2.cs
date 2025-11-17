@@ -25,10 +25,10 @@ namespace WindowsFormsApp2
                 nowy.prev = tail;
                 tail = nowy;
             }
-            else if (e == null)
+            else if (this.head == null)
             {
-                head = tail = nowy;
-
+                this.head = this.tail = nowy;
+                
 
             }
             else
@@ -53,4 +53,18 @@ namespace WindowsFormsApp2
 
         }
     }
+    public override string ToString()
+    {
+        string wynik = "";
+        var e = this.head;
+        while (e != null)
+        {
+            wynik +=" " e.wartosc.ToString(); 
+        }
+
+
+        return wynik;
+    }
+
+
 }

@@ -1,0 +1,11 @@
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\bin\Debug\sorotwanie wybieranie i wstawianie.exe.config
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\bin\Debug\sorotwanie wybieranie i wstawianie.exe
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\bin\Debug\sorotwanie wybieranie i wstawianie.pdb
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\obj\Debug\sorotwanie wybieranie i wstawianie.csproj.AssemblyReference.cache
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\obj\Debug\sorotwanie wybieranie i wstawianie.csproj.SuggestedBindingRedirects.cache
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\obj\Debug\sorotwanie_wybieranie_i_wstawianie.Form1.resources
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\obj\Debug\sorotwanie_wybieranie_i_wstawianie.Properties.Resources.resources
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\obj\Debug\sorotwanie wybieranie i wstawianie.csproj.GenerateResource.cache
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\obj\Debug\sorotwanie wybieranie i wstawianie.csproj.CoreCompileInputs.cache
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\obj\Debug\sorotwanie wybieranie i wstawianie.exe
+D:\181130\ASiD\sorotwanie wybieranie i wstawianie\obj\Debug\sorotwanie wybieranie i wstawianie.pdb
