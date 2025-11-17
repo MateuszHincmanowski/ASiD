@@ -31,11 +31,13 @@ namespace sorotwanie_wybieranie_i_wstawianie
                     {
                         minId = j;
                     }
-                    int temp = doSort[minId];
-                    doSort[minId] = doSort[i];
-                    doSort[i] = temp;
+                   
                 }
+                int temp = doSort[i];
+                doSort[i] = doSort[minId];
+                doSort[minId] = temp;
             }
+            
             label2.Text = String.Join(", ", doSort);
         }
 
