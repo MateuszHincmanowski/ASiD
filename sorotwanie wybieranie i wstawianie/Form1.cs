@@ -79,5 +79,43 @@ namespace sorotwanie_wybieranie_i_wstawianie
         {
 
         }
+
+        private void sortzlcz_Click(object sender, EventArgs e)
+        {
+            if (doSort == null)
+            {
+                MessageBox.Show("Najpierw wylosuj");
+            }
+
+            int min = 0;
+            int max = 0;
+            for(int i = 0; i < doSort.Length - 1; i++)
+            {
+                if (doSort[i]< min)
+                {
+                    min = doSort[i];
+                }
+                if (doSort[i] > max)
+                {
+                    max = doSort[i];
+                }
+            }
+            int tablelength = max - min + 1;
+            int[] pomoc = new int[tablelength];
+            for(int i = 0; i < tablelength; i++)
+            {
+                pomoc[doSort[i] - min]++;
+            }
+            int index = 0;
+            for(int i = 0; i < tablelength; i++)
+            {
+                while (pomoc[i] > 0)
+                {
+                    doSort[index++] = i + min;
+                    pomoc[i]--;
+                }
+            }
+            label2.Text = String.Join(", ", doSort);
+        }
     }
 }

@@ -33,6 +33,7 @@
             this.generowanie = new System.Windows.Forms.Button();
             this.SortWyb = new System.Windows.Forms.Button();
             this.SortWs = new System.Windows.Forms.Button();
+            this.sortzlcz = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -84,11 +85,22 @@
             this.SortWs.UseVisualStyleBackColor = true;
             this.SortWs.Click += new System.EventHandler(this.SortWs_Click);
             // 
+            // sortzlcz
+            // 
+            this.sortzlcz.Location = new System.Drawing.Point(272, 292);
+            this.sortzlcz.Name = "sortzlcz";
+            this.sortzlcz.Size = new System.Drawing.Size(171, 23);
+            this.sortzlcz.TabIndex = 5;
+            this.sortzlcz.Text = "Sortowanie przez zliczanie";
+            this.sortzlcz.UseVisualStyleBackColor = true;
+            this.sortzlcz.Click += new System.EventHandler(this.sortzlcz_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.sortzlcz);
             this.Controls.Add(this.SortWs);
             this.Controls.Add(this.SortWyb);
             this.Controls.Add(this.generowanie);
@@ -109,6 +121,7 @@
         private System.Windows.Forms.Button generowanie;
         private System.Windows.Forms.Button SortWyb;
         private System.Windows.Forms.Button SortWs;
+        private System.Windows.Forms.Button sortzlcz;
     }
 }
 
