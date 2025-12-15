@@ -6,5 +6,7 @@ using System.Threading.Tasks;
 
 namespace drzewo_binarne_poszukiwan
 {
-    
+    internal class Class2
+    {
+    }
 }

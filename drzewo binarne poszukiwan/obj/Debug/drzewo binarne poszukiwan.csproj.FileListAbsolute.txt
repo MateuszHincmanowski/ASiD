@@ -1,0 +1,11 @@
+D:\181130\ASiD\drzewo binarne poszukiwan\obj\Debug\drzewo binarne poszukiwan.csproj.AssemblyReference.cache
+D:\181130\ASiD\drzewo binarne poszukiwan\obj\Debug\drzewo binarne poszukiwan.csproj.SuggestedBindingRedirects.cache
+D:\181130\ASiD\drzewo binarne poszukiwan\obj\Debug\drzewo_binarne_poszukiwan.Properties.Resources.resources
+D:\181130\ASiD\drzewo binarne poszukiwan\obj\Debug\drzewo binarne poszukiwan.csproj.GenerateResource.cache
+D:\181130\ASiD\drzewo binarne poszukiwan\obj\Debug\drzewo binarne poszukiwan.csproj.CoreCompileInputs.cache
+D:\181130\ASiD\drzewo binarne poszukiwan\obj\Debug\drzewo_binarne_poszukiwan.Form1.resources
+D:\181130\ASiD\drzewo binarne poszukiwan\bin\Debug\drzewo binarne poszukiwan.exe.config
+D:\181130\ASiD\drzewo binarne poszukiwan\bin\Debug\drzewo binarne poszukiwan.exe
+D:\181130\ASiD\drzewo binarne poszukiwan\bin\Debug\drzewo binarne poszukiwan.pdb
+D:\181130\ASiD\drzewo binarne poszukiwan\obj\Debug\drzewo binarne poszukiwan.exe
+D:\181130\ASiD\drzewo binarne poszukiwan\obj\Debug\drzewo binarne poszukiwan.pdb
